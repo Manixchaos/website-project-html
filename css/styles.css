@@ -1,0 +1,30 @@
+body{
+	font-family: Helvetica;
+	text-align: center;
+	background-image: url("../images/sasa.jpg");
+	background-size: cover;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: white;
+}
+p{
+	font-size: 18px;
+	color: white;
+}
+
+hr{
+	padding: 2px;
+	background-color: white;
+	border: 5px;
+}
+.box{
+	padding: 20px;
+	background-color: #31373a;
+	border:5px solid black;
+	border-radius: 15px;
+}
